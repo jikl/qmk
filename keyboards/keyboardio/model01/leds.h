@@ -16,7 +16,7 @@
 #pragma once
 
 #include "quantum.h"
-#include "rgb_matrix.h"
+//#include "rgb_matrix.h"
 
 void set_all_leds_to(uint8_t r, uint8_t g, uint8_t b);
 void set_led_to(int led, uint8_t r, uint8_t g, uint8_t b);
